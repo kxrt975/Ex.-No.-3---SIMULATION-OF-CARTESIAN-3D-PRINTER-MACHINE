@@ -57,6 +57,11 @@
 
 ![Screenshot 2024-12-28 134559](https://github.com/user-attachments/assets/8240ed60-4e97-47e1-9809-6519103b26c9)
 
+## OUTPUT
+
+![Screenshot 2025-01-01 150853](https://github.com/user-attachments/assets/1abbbe84-8fb1-4a72-a0ca-76ccbe785005)
+
+
 ### Name: R.karthik padmanaban
 ### Register Number:24001743
 
